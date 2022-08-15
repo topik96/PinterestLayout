@@ -33,6 +33,6 @@ struct Constants {
     
     struct Key {
         static let apiKey = "5fa160451843ad228d0a1c7c"
-        static let clientID = "Client-ID d8a272c480b258b875d82f4062d6c52e4ae7f4b4656add778d71e9b638b2f8be"
+        static let clientID = "Client-ID xxxx-xxxx-xxxx "
     }
 }
