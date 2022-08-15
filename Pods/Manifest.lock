@@ -1,0 +1,20 @@
+PODS:
+  - Fakery (5.1.0)
+  - Kingfisher (7.2.2)
+
+DEPENDENCIES:
+  - Fakery
+  - Kingfisher (~> 7.0)
+
+SPEC REPOS:
+  trunk:
+    - Fakery
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Fakery: a90caff00ca5cacde6c161c3eafc72314a03d34d
+  Kingfisher: 184d4d1a8c36666e663caf8e08abe87898595c53
+
+PODFILE CHECKSUM: 9871a8dc2834e40c145acd814f241d58944ba7c9
+
+COCOAPODS: 1.11.3
